@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Classic - Responsive Bootstrap 4.0 Template</title>
+    <title>Administrasi Pembelajaran</title>
 <!--
 Classic Template
 http://www.templatemo.com/tm-488-classic
@@ -13,7 +13,7 @@ http://www.templatemo.com/tm-488-classic
     <!-- load stylesheets -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->
     <link rel="stylesheet" href="css/bootstrap.min.css">                                      <!-- Bootstrap style -->
-    <link rel="stylesheet" href="css/templatemo-style.css">                                   <!-- Templatemo style -->
+    <link rel="stylesheet" href="css/templatemo-style.css?varj=isuidus">                                   <!-- Templatemo style -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,7 +28,7 @@ http://www.templatemo.com/tm-488-classic
         <div class="tm-header">
             <div class="container-fluid">
                 <div class="tm-header-inner">
-                    <a href="#" class="navbar-brand tm-site-name">Classic</a>
+                    <a href="#" class="navbar-brand tm-site-name">Administrasi Pembelajaran</a>
                     
                     <!-- navbar -->
                     <nav class="navbar tm-main-nav">
